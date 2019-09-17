@@ -8,7 +8,17 @@
 
 参与组织：awakencn@126.com，组织成员以微信群形式，需要考核，详情见下文
 
+## 组织项目
+
+- [InChat](https://github.com/AwakenCN/InChat) 一个轻量级、高效率的支持多端（应用与硬件Iot）的可分布式、异步网络应用通讯框架
+- [Almost-Famous](https://github.com/AwakenCN/Almost-Famous) Almost-Famous(成名之路) ——卡牌游戏开源项目，架构使用SpringBoot+Netty+Gradle来搭建多进程分布式框架
+- [h5web-parent](https://github.com/AwakenCN/h5web-parent) Happy Elements(方块消消乐) ——一款仿开心消消乐的消除休闲游戏     
+- [Nine-Chapters](https://github.com/AwakenCN/Nine-Chapters) Nine-Chapters(九章) ——此项目意旨于对于数据结构与解题思路来与大家进行技术交流，不甚荣幸。     
+
 **组织成员**
+
+- [猫叔UncleCatMySelf](https://github.com/UncleCatMySelf) AwakenCN创始人之一，不羁平庸，热爱开源，杂谈程序人生与不定期干货。【公众号：Java猫说】交流群：728698035
+- [Noseparte](https://github.com/noseparte) AwakenCN创始人之一，热爱游戏，热爱开源，Java游戏服务器开发的干货文章和开源项目。【Almost-Famous：成名之路】交流群：670252084
 
 人员要求：（考核期：一个月）
 
